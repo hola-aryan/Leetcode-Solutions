@@ -1,4 +1,4 @@
-Certainly! Here's the given code translated into C++, Python, Python3, C, C#, JavaScript, and TypeScript, along with the comments:
+© [Aryan Mishra](https://leetcode.com/hola_aryan/)
 
 ### C++
 
