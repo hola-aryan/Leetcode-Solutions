@@ -1,5 +1,7 @@
 © [Aryan Mishra](https://leetcode.com/hola_aryan/)
 
+1920. Build Array from Permutation
+
 ### C++
 
 ```cpp
